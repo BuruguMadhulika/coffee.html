@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="online-quiz-application-written-in-java-with-jdbc-using-swing-splashscreen-login-register-quiz_timer-master/CB_QUIZ/src"/>
+	<classpathentry kind="lib" path="online-quiz-application-written-in-java-with-jdbc-using-swing-splashscreen-login-register-quiz_timer-master/CB_QUIZ_using_JDBC_with_splashscreen.jar"/>
+	<classpathentry kind="lib" path="online-quiz-application-written-in-java-with-jdbc-using-swing-splashscreen-login-register-quiz_timer-master/CB_QUIZ/lib/mysql-connector-java-5.1.44-bin.jar"/>
+	<classpathentry kind="output" path="online-quiz-application-written-in-java-with-jdbc-using-swing-splashscreen-login-register-quiz_timer-master/CB_QUIZ/bin"/>
+</classpath>
